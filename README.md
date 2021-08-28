@@ -17,7 +17,7 @@ Hello! My name is Tolani Oyefule.
 
 <br>
 
-## Technologies
+## About Me
 
 <ul>
 <li> 🔭 I’m currently working on EMR Integration Software
@@ -27,6 +27,10 @@ Hello! My name is Tolani Oyefule.
 <li> 💬 Ask me about Crypto Currency!!
 <li> ⚡ Fun fact: I once Met the Founder of Ethereum
 </ul>
+
+<img align="center" src="E&P Founders.jpg" alt="welcome"
+	title="welcome banner" width="2320" height="3088" />
+
 
 <br>
 
