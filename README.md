@@ -29,7 +29,7 @@ Hello! My name is Tolani Oyefule.
 </ul>
 
 <img align="center" src="E.P.jpg" alt="E & P Founders"
-	title="welcome banner" width="2320" height="3088" />
+	title="welcome banner" width="3088" height="2320" />
 
 
 <br>
