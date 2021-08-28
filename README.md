@@ -14,6 +14,8 @@ Hello! My name is Tolani Oyefule.
 </div>
 
 <hr>
+
+<br>
 ## About Me
 
 <ul>
@@ -25,6 +27,7 @@ Hello! My name is Tolani Oyefule.
 <li> ⚡ Fun fact: I once Met the Founder of Ethereum
 </ul>
 
+<br>
 
 ## Technologies
 
@@ -35,7 +38,6 @@ Hello! My name is Tolani Oyefule.
 <li>Other: Heroku, Git, Bash, Webpack, AWS, Electron</li>
 </ul>
 
-<hr>
 <hr>
 
 
