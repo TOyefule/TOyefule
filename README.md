@@ -16,7 +16,8 @@ Hello! My name is Tolani Oyefule.
 <hr>
 
 <br>
-## About Me
+
+## Technologies
 
 <ul>
 <li> 🔭 I’m currently working on EMR Integration Software
