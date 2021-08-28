@@ -17,9 +17,9 @@ Hello! My name is Tolani Oyefule.
 ## About Me
 
 <ul>
-<li> 🔭 I’m currently working on EMR INtegration Software
+<li> 🔭 I’m currently working on EMR Integration Software
 <li> 🌱 I’m currently learning Python, Again
-<li> 👯 I’m looking to collaborate on ANyone interested in Decentralized Finance, Crypto Currency OR EMR Applications
+<li> 👯 I’m looking to collaborate with Anyone interested in Decentralized Finance / Crypto Currency OR EMR Applications
 <li> 🤔 I’m looking for help with Epic and Cerner Implementation
 <li> 💬 Ask me about Crypto Currency!!
 <li> ⚡ Fun fact: I once Met the Founder of Ethereum
@@ -29,7 +29,7 @@ Hello! My name is Tolani Oyefule.
 ## Technologies
 
 <ul>
-<li>Front-End: React, CSS, HTML, Bootstrap, Material-UI</li>
+<li>Front-End: React, CSS, HTML, Bootstrap, Sass, Material-UI</li>
 <li>Back-End: JavaScript, TypeScript, Python, Django, Node, Express, JSON, jQuery, Auth0, API</li>
 <li>Database: MySQL, MongoDB, SQLite, PostgreSQL</li>
 <li>Other: Heroku, Git, Bash, Webpack, AWS, Electron</li>
