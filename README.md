@@ -1,16 +1,41 @@
-### Hi there 👋
+<img align="center" src="welcome.webp" alt="welcome"
+	title="welcome banner" width="1000" height="300" />
 
-<!--
-**TOyefule/TOyefule** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h1 align="center">
+Hello! My name is Tolani Oyefule.
+</h1>
+<h3 align="center" style="margin-bottom:10px">I'm a Software Engineer proficient in front-end and back-end web development. I transitioned from sales after working across a diverse list of industries including cybersecurity, instrumentation engineering and automation, telecommunications, and logistics. I recently earned a certificate in full stack web development at Montgomery College, with newly developed skills in JavaScript, CSS, SpringBoot, and MySQL. I'm passionate about working as a team and can work independently. When I'm not developing, I enjoy modifying cars, bodybuilding, learning guitar, cooking, and occasionally gaming.</h4>
+<div align="center">
+  <h4>
+    </a>
+    <a href="https://github-readme-stats.vercel.app/api?username=toyefule&show_icons=true&theme=radical"><img src="https://github-readme-stats.vercel.app/api?username=toyefule&show_icons=true&theme=radical"/></a>
+</h4>
+<br>
+</div>
 
-Here are some ideas to get you started:
+<hr>
+## About Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<ul>
+- 🔭 I’m currently working on EMR INtegration Software
+- 🌱 I’m currently learning Python, Again
+- 👯 I’m looking to collaborate on ANyone interested in Decentralized Finance, Crypto Currency OR EMR Applications
+- 🤔 I’m looking for help with Epic and Cerner Implementation
+- 💬 Ask me about Crypto Currency!!
+- ⚡ Fun fact: I once Met the Founder of Ethereum
+</ul>
+
+
+## Technologies
+
+<ul>
+<li>Front-End: React, CSS, HTML, Bootstrap, Material-UI</li>
+<li>Back-End: JavaScript, TypeScript, Python, Django, Node, Express, JSON, jQuery, Auth0, API</li>
+<li>Database: MySQL, MongoDB, SQLite, PostgreSQL</li>
+<li>Other: Heroku, Git, Bash, Webpack, AWS, Electron</li>
+</ul>
+
+<hr>
+<hr>
+
+
