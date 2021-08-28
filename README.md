@@ -17,12 +17,12 @@ Hello! My name is Tolani Oyefule.
 ## About Me
 
 <ul>
-- 🔭 I’m currently working on EMR INtegration Software
-- 🌱 I’m currently learning Python, Again
-- 👯 I’m looking to collaborate on ANyone interested in Decentralized Finance, Crypto Currency OR EMR Applications
-- 🤔 I’m looking for help with Epic and Cerner Implementation
-- 💬 Ask me about Crypto Currency!!
-- ⚡ Fun fact: I once Met the Founder of Ethereum
+<li> 🔭 I’m currently working on EMR INtegration Software
+<li> 🌱 I’m currently learning Python, Again
+<li> 👯 I’m looking to collaborate on ANyone interested in Decentralized Finance, Crypto Currency OR EMR Applications
+<li> 🤔 I’m looking for help with Epic and Cerner Implementation
+<li> 💬 Ask me about Crypto Currency!!
+<li> ⚡ Fun fact: I once Met the Founder of Ethereum
 </ul>
 
 
