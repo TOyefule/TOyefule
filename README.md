@@ -28,7 +28,7 @@ Hello! My name is Tolani Oyefule.
 <li> ⚡ Fun fact: I once Met the Founder of Ethereum
 </ul>
 
-<img align="center" src="E&P Founders.jpg" alt="welcome"
+<img align="center" src="E.P.jpg" alt="E & P Founders"
 	title="welcome banner" width="2320" height="3088" />
 
 
