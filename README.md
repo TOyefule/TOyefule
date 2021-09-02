@@ -2,6 +2,32 @@
 	title="welcome banner" width="1000" height="300" />
 
 <h1 align="center">
+	
+	<h1 align="center">
+  Hi there 👋 I'm Alexey 👨‍💻
+</h1>
+
+<p align="center">
+  Web Developer from Philadelphia, Pennsylvania.
+</p>
+
+<p align="center"><a href="https://www.linkedin.com/in/TOyefule" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a> <a href="https://leetcode.com/TOyefule/"><img src="https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black"></a> <a href="https://medium.com/@TOyefule" target="_blank"><img alt="Medium" src="https://img.shields.io/badge/medium-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=white" /></a> <a href="https://dev.to/toyefule"><img src="https://img.shields.io/badge/DEV.TO-%230A0A0A.svg?&style=for-the-badge&logo=dev-dot-to&logoColor=white"></a></p>
+
+<div align="center">
+	<img src="https://github-readme-stats.vercel.app/api?username=Alexeykhr&show_icons=true&theme=tokyonight&count_private=true" alt="GitHub Stats" align="top" height="180"/>
+	<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Alexeykhr&theme=tokyonight&langs_count=8&layout=compact" alt="GitHub Top Languages" align="top" height="180"/>
+</div>
+
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
 Hello! My name is Tolani Oyefule.
 </h1>
 <h3 align="center" style="margin-bottom:10px">I'm a Software Engineer proficient in front-end and back-end web development. I transitioned from sales after working across a diverse list of industries including cybersecurity, instrumentation engineering and automation, telecommunications, and logistics. I recently earned a certificate in full stack web development at Montgomery College, with newly developed skills in JavaScript, CSS, SpringBoot, and MySQL. I'm passionate about working as a team and can work independently. When I'm not developing, I enjoy modifying cars, bodybuilding, learning guitar, cooking, and occasionally gaming.</h4>
