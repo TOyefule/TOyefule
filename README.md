@@ -18,7 +18,7 @@
 
 	
 
-<h3 align="center" style="margin-bottom:10px">I'm a Software Engineer proficient in front-end and back-end web development. I transitioned from Software Consulting after working across a diverse list of industries including Healthcare INformatics, Data Analytics, telecommunications, and logistics. I recently earned a certificate in full stack web development at Montgomery College, with newly developed skills in JavaScript, CSS, SpringBoot, and MySQL. I'm passionate about working as a team and can work independently. When I'm not developing, I enjoy modifying cars, bodybuilding, learning guitar, cooking, and occasionally gaming.</h4>
+<h3 align="center" style="margin-bottom:10px">I'm a Software Engineer proficient in front-end and back-end web development. I transitioned from Software Consulting after working across a diverse list of industries including Healthcare INformatics, Data Analytics, telecommunications, and logistics. I recently earned a certificate in full stack web development at Montgomery College, with newly developed skills in JavaScript, CSS, SpringBoot, and MySQL. I'm passionate about working as a team and can work independently. When I'm not developing, I enjoy moding cars, running, learning guitar, cooking, and occasionally gaming.</h4>
 <div align="center">
 <br>
 </div>
