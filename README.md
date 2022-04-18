@@ -45,7 +45,7 @@
 
 <ul>
 <li>Front-End: React, CSS, HTML, Bootstrap, Sass, Material-UI</li>
-<li>Back-End: JavaScript, TypeScript, Python, Django, Node, Express, JSON, jQuery, Auth0, API</li>
+<li>Back-End: JavaScript, TypeScript, Python, Django, Node, Express, JSON, jQuery, OAuth2.0, API</li>
 <li>Database: MySQL, MongoDB, SQLite, PostgreSQL</li>
 <li>Other: Heroku, Git, Bash, Webpack, AWS, Electron</li>
 </ul>
