@@ -31,11 +31,9 @@
 
 <ul>
 <li> 🔭 I’m currently working on EMR Integration Software
-<li> 🌱 I’m currently learning Ruby on Rails
+<li> 🌱 I’m currently learning React
 <li> 👯 I’m looking to collaborate with Anyone interested in Decentralized Finance / Crypto Currency OR EMR Applications
-<li> 🤔 I’m looking for help with Epic and Cerner Implementation
-<li> 💬 Ask me about Crypto Currency!!
-<li> ⚡ Fun fact: I once Met the Founder of Ethereum
+
 </ul>
 
 
