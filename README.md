@@ -30,9 +30,9 @@
 ## About Me
 
 <ul>
-<li> 🔭 I’m currently working on EMR Integration Software
-<li> 🌱 I’m currently learning React
-<li> 👯 I’m looking to collaborate with Anyone interested in Decentralized Finance / Crypto Currency OR EMR Applications
+<li> I’m currently working on EMR Integration Software
+<li> I’m currently learning React
+<li> I’m looking to collaborate with Anyone interested in Decentralized Finance / Crypto Currency OR EMR Applications
 
 </ul>
 
