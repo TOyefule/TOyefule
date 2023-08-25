@@ -13,7 +13,7 @@
 
 <div align="center">
 	<img src="https://github-readme-stats.vercel.app/api?username=TOyefule&show_icons=true&theme=tokyonight&count_private=true" alt="GitHub Stats" align="top" height="180"/>
-	<img src="[https://github-readme-stats.vercel.app/api/top-langs/?username=TOyefule&theme=tokyonight&langs_count=8&layout=compact](https://github-readme-stats.vercel.app/api/top-langs/?username=TOyefule&theme=tokyonight&langs_count=8&layout=compact)" alt="GitHub Top Languages" align="top" height="180"/>
+	<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TOyefule&theme=tokyonight&langs_count=8&layout=compact" alt="GitHub Top Languages" align="top" height="180"/>
 </div>
 
 	
