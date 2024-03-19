@@ -17,7 +17,6 @@
 	<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TOyefule&theme=tokyonight&langs_count=8&layout=compact" alt="GitHub Top Languages" align="top" height="180"/>
 </div>
 
-https://github.com/TOyefule/TOyefule/edit/main/README.md	
 
 <h3 align="center" style="margin-bottom:10px">
 	I'm a Software Engineer proficient in front-end and back-end web development. 
