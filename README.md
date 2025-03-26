@@ -2,11 +2,11 @@
 	title="welcome banner" width="1000" height="300" />
 
 <h1 align="center">
-  Hi there 🙋🏾‍♂️ I'm Tolani O. 👨🏾‍💻
+  Hi there 🙋🏾‍♂️ I'm Tolani 👨🏾‍💻
 </h1>
 
 <p align="center">
-  Web Developer from Philadelphia, Pennsylvania.
+		Developer from Philadelphia, Pennsylvania.
 </p>
 
 <p align="center"><a href="https://www.linkedin.com/in/TOyefule" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a> <a href="https://leetcode.com/TOyefule/"><img src="https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black"></a> <a href="https://medium.com/@TOyefule" target="_blank">
@@ -21,9 +21,9 @@
 <h3 align="center" style="margin-bottom:10px">
 	I'm a Software Engineer proficient in front-end and back-end web development. 
 	I transitioned from Software Consulting after working across a diverse list of industries including Healthcare Informatics, 
-	Data Analytics, telecommunications, and logistics. I recently earned a certificate in full stack web development at Montgomery College, 
-	with newly developed skills in JavaScript, CSS, SpringBoot, and MySQL. I'm passionate about working as a team and can work independently. 
-	When I'm not developing, I enjoy moding cars, running, learning guitar, cooking, and occasionally gaming.</h4>
+	Data Analytics, telecommunications, and logistics. I recently earned Certifications in Data Analytics & Web development at Montgomery College, 
+	with newly developed skills in JavaScript, CSS, SpringBoot, and MySQL. I'm passionate about working cooperatively as well as independently. 
+	When I'm not developing, I enjoy running, biking, performing, cooking, gaming  and occasionally creating content for my Media Channels.</h4>
 <div align="center">
 <br>
 </div>
@@ -37,7 +37,7 @@
 <ul>
 <li> I’m currently working on EMR Integration Software
 <li> I’m currently learning AWS / Cloud Computing
-<li> I’m looking to collaborate with Anyone interested in Cloud Development 
+<li> I’m looking to collaborate with Anyone interested in Development 
 
 </ul>
 
@@ -47,7 +47,7 @@
 ## Technologies
 
 <ul>
-	<li>Front-End: CSS, HTML, JavaScript, Bootstrap, React, Material-UI</li>
+	<li>Front-End: CSS, HTML, JavaScript, React, Typescript, Material-UI</li>
 	<li>Back-End: Java, Python, Node, JSON, OAuth2.0, API</li>
 	<li>Database: MySQL, MongoDB, SQLite, PostgreSQL</li>
 	<li>Other: Heroku, Git, Bash, Webpack, AWS, Electron</li>
