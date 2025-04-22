@@ -1,8 +1,5 @@
-<img align="center" src="welcome.webp" alt="welcome"
-	title="welcome banner" width="1000" height="300" />
-
 <h1 align="center">
-  Hi there 🙋🏾‍♂️ I'm Tolani 👨🏾‍💻
+  Hi 🙋🏾‍♂️ I'm Tolani 👨🏾‍💻
 </h1>
 
 <p align="center">
@@ -35,9 +32,9 @@
 ## About Me
 
 <ul>
-<li> I’m currently working on EMR Integration Software
-<li> I’m currently learning AWS / Cloud Computing
-<li> I’m looking to collaborate with Anyone interested in Development 
+<li> I’m currently working on LLM, Chat Modules, Software Integration 
+<li> I’m currently learning LLMs && Cloud Computing
+<li> I’m looking to collaborate with Anyone interested in LLM && A.I. Development 
 
 </ul>
 
@@ -47,12 +44,14 @@
 ## Technologies
 
 <ul>
-	<li>Front-End: CSS, HTML, JavaScript, React, Typescript, Material-UI</li>
+	<li>Front-End: HTML, CSS, JavaScript, React, Typescript, Material-UI</li>
 	<li>Back-End: Java, Python, Node, JSON, OAuth2.0, API</li>
 	<li>Database: MySQL, MongoDB, SQLite, PostgreSQL</li>
 	<li>Other: Heroku, Git, Bash, Webpack, AWS, Electron</li>
 </ul>
 
 <hr>
+
+
 
 
