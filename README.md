@@ -48,7 +48,7 @@
 	<li>Back-End: Java, Python, Node, JSON, OAuth2.0, API</li>
 	<li>Database: MySQL, MongoDB, SQLite, PostgreSQL</li>
 	<li>Other: Heroku, Git, Bash, Webpack, AWS, Electron</li>
-	<li><a href="[https://bolt.new/?rid=36s6us]">Check out BOLT.ai</a></li>
+	<li><a href="https://bolt.new/?rid=36s6us"> Check out BOLT.ai</a></li>
 	
 </ul>
 
