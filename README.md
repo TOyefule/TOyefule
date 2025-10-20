@@ -10,7 +10,6 @@
 	<img alt="Medium" src="https://img.shields.io/badge/medium-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=white" /></a> <a href="https://dev.to/toyefule"><img src="https://img.shields.io/badge/DEV.TO-%230A0A0A.svg?&style=for-the-badge&logo=dev-dot-to&logoColor=white"></a></p>
 
 <div align="center">
-	<img src="https://github-readme-stats.vercel.app/api?username=TOyefule&show_icons=true&theme=tokyonight&count_private=true" alt="GitHub Stats" align="top" height="180"/>
 	<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TOyefule&theme=tokyonight&langs_count=8&layout=compact" alt="GitHub Top Languages" align="top" height="180"/>
 </div>
 
