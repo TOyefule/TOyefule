@@ -43,7 +43,6 @@
   <li>Currently consulting as a Data Engineer designing HIPAA-compliant data platforms and billing analytics for healthcare organizations.</li>
   <li>Hands-on experience with EMR ecosystems (Epic, Cerner), FHIR (HAPI-FHIR), and REST-based integration services.</li>
   <li>Strong background leading IT teams, production support, and technical documentation in live clinical environments.</li>
-  <li>Actively deepening expertise in cloud-native data engineering (AWS, Azure, Databricks) and applied AI for healthcare workflows.</li>
   <li>Open to collaborations on healthcare data platforms, interoperable APIs, and AI/LLM-powered tools for clinicians and operations.</li>
 </ul>
 
@@ -51,17 +50,16 @@
 
 <ul>
   <li><strong>Languages</strong>: Java, JavaScript, TypeScript, SQL, Python, Bash</li>
-  <li><strong>Backend</strong>: Node.js, Spring Boot, REST APIs, Microservices, Maven, Thymeleaf, HAPI-FHIR</li>
+  <li><strong>Backend</strong>: Node.js, SpringBoot, REST APIs, Microservices, Maven, Thymeleaf, HAPI-FHIR</li>
   <li><strong>Frontend</strong>: HTML, CSS, Bootstrap, Electron</li>
   <li><strong>Cloud & Data</strong>: AWS (EC2, RDS, S3, Lambda, Redshift), Azure, Databricks, ETL Pipelines, Data Modeling</li>
   <li><strong>Security & Compliance</strong>: HIPAA-aligned system design, secure application development in regulated environments</li>
-  <li><strong>Tooling & Ops</strong>: Git, CI/CD pipelines, PowerShell, JAMF, Intune, Microsoft 365</li>
+  <li><strong>Tooling & Ops</strong>: Git, CI/CD pipelines, Microsoft 365</li>
 </ul>
 
 ## Selected Highlights
 
 <ul>
-  <li>Reduced AWS EMR infrastructure costs by 25% through architecture and process optimization.</li>
   <li>Built FHIR-driven billing data pipelines (FHIR → Azure → Databricks) to unlock claims analytics and reporting.</li>
   <li>Redesigned a clinician portal using modern web technologies, improving performance and usability for providers.</li>
   <li>Implemented FHIR interoperability (HAPI-FHIR) and EMR integrations for tablet-based clinical applications.</li>
