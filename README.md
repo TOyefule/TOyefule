@@ -3,7 +3,7 @@
 </h1>
 
 <p align="center">
-  Software Engineer | Healthcare Data & Cloud | Philadelphia, PA
+Senior Software / Data Engineer | Healthcare interoperability, Cloud(AWS + AZURE)
 </p>
 
 <p align="center">
